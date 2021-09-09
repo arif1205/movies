@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.js": "/movies/static/js/main.b9f788d9.chunk.js",
+    "main.js.map": "/movies/static/js/main.b9f788d9.chunk.js.map",
+    "runtime-main.js": "/movies/static/js/runtime-main.68aed8d7.js",
+    "runtime-main.js.map": "/movies/static/js/runtime-main.68aed8d7.js.map",
+    "static/js/2.79e8b647.chunk.js": "/movies/static/js/2.79e8b647.chunk.js",
+    "static/js/2.79e8b647.chunk.js.map": "/movies/static/js/2.79e8b647.chunk.js.map",
+    "index.html": "/movies/index.html",
+    "static/js/2.79e8b647.chunk.js.LICENSE.txt": "/movies/static/js/2.79e8b647.chunk.js.LICENSE.txt",
+    "static/media/no_image.22d2aa4d.jpg": "/movies/static/media/no_image.22d2aa4d.jpg",
+    "static/media/react-movie-logo.42955eb6.svg": "/movies/static/media/react-movie-logo.42955eb6.svg",
+    "static/media/search-icon.cd820f5a.svg": "/movies/static/media/search-icon.cd820f5a.svg",
+    "static/media/tmdb_logo.f15b6632.svg": "/movies/static/media/tmdb_logo.f15b6632.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.68aed8d7.js",
+    "static/js/2.79e8b647.chunk.js",
+    "static/js/main.b9f788d9.chunk.js"
+  ]
+}
